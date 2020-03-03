@@ -1,0 +1,4 @@
+<project name = "singly-linked-list" default = "info">
+   <target name = "info">
+   </target>
+</project>
